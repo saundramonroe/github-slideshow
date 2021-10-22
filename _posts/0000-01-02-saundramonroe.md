@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Saundra first test
+Update: "Saundra's commit"
 Use the left arrow to go back!
